@@ -11,3 +11,4 @@ sentence-transformers
 python-dotenv
 streamlit
 requests
+pysqlite3-binary
